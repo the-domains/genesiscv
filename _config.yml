@@ -1,15 +1,15 @@
-layout_spectrum: 0.3606538937892765
-typography_spectrum: 0.4467989595141262
+layout_spectrum: 0.4008488750550896
+typography_spectrum: 0.30191798880696297
 color:
-  brandStrength: 0.7698385706171393
-  lightness: 0.2736777379177511
-  saturation: 0.4166656290180981
-  rhythmicContrast: 0.39188239234499633
+  brandStrength: 0.5547979124821723
+  lightness: 0.024500804720446467
+  saturation: 0.7137637042906135
+  rhythmicContrast: 0.10631144442595541
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
 name: Genesiscv
 title: Seed and early stage investments
